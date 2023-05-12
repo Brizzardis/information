@@ -1,2 +1,2 @@
-Recommendation systems
+Scraping
 GeekBrains course
